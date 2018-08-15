@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing math service test add function 1`] = `7`;
+
+exports[`Testing math service test complex function 1`] = `
+Array [
+  Object {
+    "id": 0,
+    "name": "user 0",
+  },
+  Object {
+    "id": 1,
+    "name": "user 1",
+  },
+  Object {
+    "id": 2,
+    "name": "user 2",
+  },
+  Object {
+    "id": 3,
+    "name": "user 3",
+  },
+  Object {
+    "id": 4,
+    "name": "user 4",
+  },
+  Object {
+    "id": 5,
+    "name": "user 5",
+  },
+  Object {
+    "id": 6,
+    "name": "user 6",
+  },
+  Object {
+    "id": 7,
+    "name": "user 7",
+  },
+  Object {
+    "id": 8,
+    "name": "user 8",
+  },
+  Object {
+    "id": 9,
+    "name": "user 9",
+  },
+]
+`;
